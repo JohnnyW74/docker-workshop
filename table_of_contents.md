@@ -1,7 +1,18 @@
 #Table of contents
-1. docker basics
-2. working with an registry
-3. get to know docker hub
-4. official images
-5. building docker images with best practices
-6. docker multi-stage builds
+## day 1
+- docker basics
+- docker pull/run
+- docker images/ps
+- unsorted list
+- mapping ports
+- mapping volumes
+- limiting containers
+- docker limits and java gc
+- working with an registry
+- get to know docker hub
+- official images
+- docker compose
+## day 2
+- building docker images with best practices
+- docker multi-stage builds
+- even smaller with jlink(since java9)

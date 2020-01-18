@@ -8,6 +8,7 @@
 - [docker logout](https://docs.docker.com/engine/reference/commandline/logout/) 
 - [docker logs](https://docs.docker.com/engine/reference/commandline/logs/) 
 - [docker port](https://docs.docker.com/engine/reference/commandline/port/) 
+- [docker push](https://docs.docker.com/engine/reference/commandline/push/) 
 - [docker save](https://docs.docker.com/engine/reference/commandline/save/) 
 - [docker search](https://docs.docker.com/engine/reference/commandline/search/) 
 - [docker secret](https://docs.docker.com/engine/reference/commandline/secret/) 

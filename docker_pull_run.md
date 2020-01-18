@@ -11,6 +11,10 @@ Every Image has a tag. Default is "latest". Be carfeule if you want to rely on i
 
 Why does nothing happens?
 
+> docker run alpine echo "hello world"
+
+Now interactive
+
 > docker run -ti alpine
 
 What do you see inside an container? What do you see outside an container?
