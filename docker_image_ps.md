@@ -32,4 +32,4 @@ Force will delete also all containers relying on the image
 
 Delete all images
 
-> docker image prune
+> docker image prune -a
