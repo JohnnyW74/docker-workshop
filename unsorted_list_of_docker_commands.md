@@ -1,5 +1,5 @@
 # unsorted list of docker commands
--  [docker attach](https://docs.docker.com/engine/reference/commandline/attach/) 
+
 - [docker cp](https://docs.docker.com/engine/reference/commandline/cp/) 
 - [docker exec](https://docs.docker.com/engine/reference/commandline/exec/) 
 - [docker history](https://docs.docker.com/engine/reference/commandline/history/) 
@@ -11,7 +11,6 @@
 - [docker push](https://docs.docker.com/engine/reference/commandline/push/) 
 - [docker save](https://docs.docker.com/engine/reference/commandline/save/) 
 - [docker search](https://docs.docker.com/engine/reference/commandline/search/) 
-- [docker secret](https://docs.docker.com/engine/reference/commandline/secret/) 
 - [docker stats](https://docs.docker.com/engine/reference/commandline/stats/) 
 - [docker stop](https://docs.docker.com/engine/reference/commandline/stop/) 
 - [docker tag](https://docs.docker.com/engine/reference/commandline/tag/) 
