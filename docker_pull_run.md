@@ -21,10 +21,15 @@ What do you see inside an container? What do you see outside an container?
 
 Are Containers persistent?
 > docker run -ti alpine
+
 > touch hugo
+
 > ls -l
+
 > exit
+
 > docker run -ti alpine
+
 > ls -l
 
 [weiter](https://github.com/JohnnyW74/docker-workshop/blob/master/docker_image_ps.md) 
