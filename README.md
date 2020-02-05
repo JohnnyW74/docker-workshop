@@ -1,4 +1,4 @@
-#Table of contents
+# Table of contents
 ## day 1
 - docker basics
 - docker pull/run

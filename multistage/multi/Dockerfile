@@ -5,5 +5,5 @@ RUN go build -o goapp
 ENTRYPOINT ["/app/goapp"]
 
 FROM alpine:latest
-COPY --from=builder /app/goapp /app/goapp
-ENTRYPOINT ["/app/goapp"]
+COPY --from=builder /app/goapp /app/goapp_small
+ENTRYPOINT ["/app/goapp_small"]
