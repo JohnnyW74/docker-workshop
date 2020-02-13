@@ -1,35 +1,35 @@
 # docker pull/run
 First we have to pull an image
->docker pull alpine
+
+	docker pull alpine
 
 Lets take a look what we are pulling(downloading):
 [Alpine Image](https://hub.docker.com/_/alpine/) 
 
 Every Image has a tag. Default is "latest". Be carfeule if you want to rely on in productional environment.
 
->docker run alpine
+	docker run alpine
 
 Why does nothing happens?
 
-> docker run alpine echo "hello world"
+	docker run alpine echo "hello world"
 
 Now interactive
 
-> docker run -ti alpine
+	docker run -ti alpine
 
 What do you see inside an container? What do you see outside an container?
 
 Are Containers persistent?
-> docker run -ti alpine
 
-> touch hugo
+	docker run -ti alpine
 
-> ls -l
+	touch hugo
+	ls -l
+	exit
 
-> exit
+	docker run -ti alpine
 
-> docker run -ti alpine
-
-> ls -l
+	ls -l
 
 [next](https://github.com/JohnnyW74/docker-workshop/blob/master/docker_image_ps.md) 
